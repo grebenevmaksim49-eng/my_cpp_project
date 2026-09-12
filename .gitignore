@@ -4,12 +4,10 @@ build/
 *.a
 *.so
 *.dll
-
 *.exe
-*.log
 
+*.log
 *.tmp
+
 .DS_Store
 Thumbs.db
-
-
